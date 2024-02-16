@@ -6,7 +6,7 @@
 
 ![image](https://github.com/kevindwiwijaya/Praktikum-Basis-Data/assets/87982064/c8c16a82-39f6-4efc-bc84-e6179acfadff)
 
-2. Penampilan isi Tabel dan isi nya
+2. Penampilan  Tabel dan isi nya
 
 ![image](https://github.com/kevindwiwijaya/Praktikum-Basis-Data/assets/87982064/cbdfbe4c-f939-455f-90b5-4691c6bc2639)
 
