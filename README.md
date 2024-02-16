@@ -1,1 +1,1 @@
-# Praktikum-Basis-Data
+# Praktikum Basis Data
